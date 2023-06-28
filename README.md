@@ -9,7 +9,7 @@
 <img src="https://github.com/1MarioRG3/AFIT/assets/133591669/e6c8e2a2-bf23-4652-a9c6-6f11f283e2b4">
 </p>
 
-## DESCRIPCIÓN 
+## :page_facing_up:DESCRIPCIÓN 
 Este proyecto surge con la idea de crear una aplicación para apoyar el proceso de enseñanza de la Actividad Física Terapéutica (AFIT) de las universidades de Cuba, sin embargo, en el proceso de desarrollo me di cuenta de que puede llegar no solo a estudiantes universitarios, sino también a personas naturales ya que contiene ejercicios terapéuticos para enfermedades que muchas personas padecen, una sección de yoga que puede ayudar a las personas a alcanzar la armonía y la paz, varios masajes terapéuticos , actividades acuáticas para la salud, audios de relajación, una sección de musicoterapia con una lista de músicas para tratar el insomnio, la depresión , la ansiedad entre otros padecimientos , un glosario de términos terapéuticos, sitios externos de interés y varias maneras de contactar con el Dr. Julián Hernández Domínguez, un profesor y médico especialista en el área que ayudo y participo activamente en el desarrollo de esta aplicación.
 Creo que esta aplicación puede ser un aporte a las personas que la necesiten, a las universidades y a la sociedad en general, siempre se realizó con la idea de ser completamente gratuita y sin ánimos de lucro, además de ser de código abierto.
 ## :calling:Funcionalidades actuales
@@ -75,7 +75,7 @@ Creo que esta aplicación puede ser un aporte a las personas que la necesiten, a
 -FM (Fuerza máxima).<br>
 -PE (Pulso de entrenamiento).<br>
 
-## Capturas de pantalla de la aplicación
+## :camera:Capturas de pantalla de la aplicación
 <p>
 <img aling="left" src="Screenshots/Ejercicios Terapéuticos.png" width="200" height="400">
 <img aling="left" src="Screenshots/Documentos.png" width="200" height="400">
