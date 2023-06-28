@@ -6,12 +6,12 @@ using UnityEngine.UI;
 public class MovimientoObjeto : MonoBehaviour
 {
     bool arrastrandose;
-    Vector3 posicionInicial;
+    Vector3 posicionInicial,offset;
     RectTransform rt;
     
     public void OnPointerDown(){
-        arrastrandose = true;
-        
+        arrastrandose = true; 
+        offset = transform.position - Input.mousePosition;
     }
     public void GuardarPosicion() {
         if(rt == null){
@@ -22,9 +22,7 @@ public class MovimientoObjeto : MonoBehaviour
     }
     public void OnDrag(){
         if(arrastrandose){
-            Vector3 mousePosition = Input.mousePosition;
-            mousePosition.z = Camera.main.transform.position.z;
-            transform.position = Camera.main.ScreenToWorldPoint(mousePosition);
+            transform.position = Input.mousePosition + offset;
         }
     }
     public void OnPointerUp(){

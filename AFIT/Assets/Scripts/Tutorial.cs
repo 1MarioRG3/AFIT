@@ -11,7 +11,7 @@ public class Tutorial : MonoBehaviour
     [SerializeField] float[] PaginasSize;
     int p = 1;
     private void Start() {
-        PlayerPrefs.DeleteAll();
+        //PlayerPrefs.DeleteAll();
         if(PlayerPrefs.GetInt("Tutorial",1) == 1){
             O_Tutorial.SetActive(true);
             FC.PuedeAbrirLaBarraLateral(false);
