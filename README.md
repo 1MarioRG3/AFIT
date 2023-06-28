@@ -1,5 +1,6 @@
 
 <h1 align="left"> AFIT 
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="Licencia GNU GPL 3.0"></a>
 <img src="https://img.shields.io/badge/STATUS-COMPLETADO-green">
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-2019.3.3f1-blue.svg?logo=unity"></a>
 <img src="https://img.shields.io/github/stars/1MarioRG3?style=social">
