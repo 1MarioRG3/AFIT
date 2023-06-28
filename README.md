@@ -74,5 +74,19 @@ Creo que esta aplicación puede ser un aporte a las personas que la necesiten, a
 -FM (Fuerza máxima).<br>
 -PE (Pulso de entrenamiento).<br>
 
+## Capturas de pantalla de la aplicación
+<p>
+<img aling="left" src="Screenshots/Ejercicios Terapéuticos.png" width="200" height="400">
+<img aling="left" src="Screenshots/Documentos.png" width="200" height="400">
+<img aling="left" src="Screenshots/Yoga.png" width="200" height="400">
+<img aling="left" src="Screenshots/Tecnicas de relajación.png" width="200" height="400">
+<img aling="left" src="Screenshots/Glosario.png" width="200" height="400">
+<img aling="left" src="Screenshots/Masaje Deportivo.png" width="200" height="400">
+<img aling="left" src="Screenshots/Sitiós de interes.png" width="200" height="400">
+<img aling="left" src="Screenshots/Información.png" width="200" height="400">
+<img aling="left" src="Screenshots/Actividades Actuaticas para la salud.png" width="200" height="400">
+<img aling="left" src="Screenshots/Barra lateral.png" width="200" height="400">
+</p>
+  
 
 
