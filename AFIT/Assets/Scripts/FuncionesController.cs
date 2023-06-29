@@ -73,11 +73,11 @@ public class FuncionesController : MonoBehaviour
                 if(Mathf.Abs(DeltaX)>Mathf.Abs(DeltaY)){
                     if(DeltaX>DistanciaMinima){
                         A_BarraLateral.Play("MenuAmburguesaSaliendo");
-                        Debug.Log("DERECHA");
+                        
                     }else if(DeltaX<DistanciaMinima*-1){
                     
                         A_BarraLateral.Play("MenuAmburguesaOcultandose");
-                        Debug.Log("IZQUIERDA");
+                        
                     }
                 }
                 dedoInicio = dedoFinal;

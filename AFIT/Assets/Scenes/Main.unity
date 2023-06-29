@@ -375,7 +375,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ejercicios sindrome doloroso lumbar
+  m_Text: "Ejercicios s\xEDndrome doloroso lumbar"
 --- !u!222 &4495606
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3876,7 +3876,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Este bot\xF3n abre un apartado que contiene informaci\xF3n sobre la aplicaci\xF3n
-    y un enlace externo al projecto de Github."
+    y un enlace externo al proyecto de GitHub."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5273,7 +5273,7 @@ MonoBehaviour:
     tienen un controlador para su reproducci\xF3n similar al de un reproductor de
     m\xFAsica normal:\n<b>-Barra de tiempo: </b>Es una barra que va avanzando con
     el tiempo y puede ser desplazada con el dedo para ir a determinado punto del
-    audio.\n<b>-Bot\xF3n Pausa:</b> Boton para pausar o despausar el audio.\n<b>-Bot\xF3n
+    audio.\n<b>-Bot\xF3n Pausa:</b> Bot\xF3n para pausar o despausar el audio.\n<b>-Bot\xF3n
     Adelantar o Retroceder:</b> Se usan para adelantar o retroceder 5 segundos del
     video.\n\nAdem\xE1s de estos 3 audios hay una subsecci\xF3n llamada<b> Musicoterapia</b>
     que tiene una lista de m\xFAsicas recomendadas para 6 padecimientos."
@@ -7112,8 +7112,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Inlfamaci\xF3n de una articulaci\xF3n, acompa\xF1ada en general de dolor
-    e hinchaz\xF3n y, en algunos casos, cambios en la estructura osea."
+  m_Text: "Inflamaci\xF3n de una articulaci\xF3n, acompa\xF1ada en general de dolor
+    e hinchaz\xF3n y, en algunos casos, cambios en la estructura \xF3sea."
 --- !u!222 &197166384
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8592,7 +8592,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Este bot\xF3n contiene un enlace externo al correo del creador para contactar
-    con el y reportar alg\xFAn fallo , bug, error o sugerencia de la misma."
+    con \xE9l y reportar alg\xFAn fallo, bug, error o sugerencia de esta."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8661,10 +8661,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 212961241}
-    characterCount: 143
+    characterCount: 138
     spriteCount: 0
-    spaceCount: 25
-    wordCount: 25
+    spaceCount: 23
+    wordCount: 24
     linkCount: 0
     lineCount: 4
     pageCount: 1
@@ -11347,7 +11347,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Es un m\xE9todo terap\xE9utico de presi\xF3n positiva espiratoria intermitente
     (PEP). Que le permitir\xE1 al paciente respirar mejor debido a un aumento en
-    la ventilaci\xF3n pulmonar perif\xE9rica, disminuci\xF1on de la disnea y mejor\xEDa
+    la ventilaci\xF3n pulmonar perif\xE9rica, disminuci\xF3n de la disnea y mejor\xEDa
     en el drenaje de las secreciones."
 --- !u!222 &271185532
 CanvasRenderer:
@@ -13894,7 +13894,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Secci\xF3n de <b>Actividades Ac\xFAaticas </b>para la salud"
+  m_text: "Secci\xF3n de <b>Actividades Acu\xE1ticas </b>para la salud"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -14744,8 +14744,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Este bot\xF3n abre una ventana que contiene 3 calculadoras , una para
-    el IMC(Indice de masa corporal), otra para la FM(Fuerza M\xE1xima) y otra para
+  m_text: "Este bot\xF3n abre una ventana que contiene 3 calculadoras, una para el
+    IMC(\xCDndice de masa corporal), otra para la FM(Fuerza M\xE1xima) y otra para
     el PE(Pulso de entrenamiento)."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -14815,9 +14815,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 384713312}
-    characterCount: 173
+    characterCount: 172
     spriteCount: 0
-    spaceCount: 28
+    spaceCount: 27
     wordCount: 31
     linkCount: 0
     lineCount: 5
@@ -15693,8 +15693,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Recubre los extremos de los huesos y permite la distribuci\xF3n de las
-    cargas de compresi\xF3n a lo largo de los huesos\xF1 proporciona una superfiecie
-    sin fricciones y resistente al desgaste para el movimiento de la articulaci\xF3n."
+    cargas de compresi\xF3n a lo largo de los huesos proporciona una superficie sin
+    fricciones y resistente al desgaste para el movimiento de la articulaci\xF3n."
 --- !u!222 &399281763
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15737,7 +15737,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 360, y: -22.849976}
+  m_AnchoredPosition: {x: 360, y: -22.85}
   m_SizeDelta: {x: 655.3, y: 45.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &404727393
@@ -16111,7 +16111,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &409124118
 RectTransform:
   m_ObjectHideFlags: 0
@@ -20141,7 +20141,7 @@ MonoBehaviour:
     cabeza cuelgue pesadamente y su mirada pueda mirar hacia su vientre para asegurar
     un largo cuello y columna vertebral. Es posible que desee mantener una ligera
     inclinaci\xF3n en las rodillas al principio si sus isquiotibiales est\xE1n apretados
-    o jugar con la ditribuci\xF3n del peso y estirar."
+    o jugar con la distribuci\xF3n del peso y estirar."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20371,9 +20371,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Este bot\xF3n abre la barra lateral, dicha barra tambien puede ser abierta
-    si presionamos en alguna parte toda la zona inferior al boton del menu hamburguesa
-    y del ancho de este y luego desplazamos el dedo hacia la derecha "
+  m_text: "Este bot\xF3n abre la barra lateral, dicha barra tambi\xE9n puede ser
+    abierta si presionamos en alguna parte toda la zona inferior al bot\xF3n del
+    men\xFA hamburguesa y del ancho de este y luego desplazamos el dedo hacia la
+    derecha"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20442,9 +20443,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 518321919}
-    characterCount: 220
+    characterCount: 219
     spriteCount: 0
-    spaceCount: 39
+    spaceCount: 38
     wordCount: 39
     linkCount: 0
     lineCount: 6
@@ -21927,21 +21928,22 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "De pie, con la espalda recta, respirando profundamente y haz un ciclo
-    de respiraci\xF3n 5-10-10.\n\nColoca los brazos en jarra, con las manos en las
-    caderas. Respira profundamente\n\nAbre las piernas ampliamente. Tienes que abrirlas
-    tanto que las rodillas y los codos formen una l\xEDnea totalmente vertical. Piensa
-    c\xF3mo tienes los brazos. Notar\xE1s un poquito de tensi\xF3n en las piernas
-    y sabr\xE1s que lo que est\xE1s haciendo esta bien. Aguanta el aire. \n\nGira
-    el pie derecho para que apunte hacia afuera y dobla la pierna derecha, echando
-    el cuerpo hacia ese lado. Meintras , sigues con las manos en las caderas y la
-    espalda recta. Mira la posici\xF3n de tu rodilla derecha, que tiene que estar
-    justo encima del tobillo.\n\nAhora expulsa el aire de tus pulmones y vuelve a
-    respirar profundamente.\n\nAbre los brazos y ponlos en cruz, estirados, firmes,
-    con los dedos extendidos. Gira la cabeza hacia el lado derecho. Percibe la fuerza
-    que hace tu cuerpo y que se reparte entre sus miembros, controlada gracias a
-    tu mente. Aguanta 10 segundos. \n\nExpulsa el aire mientras pones fin al asana.
-    Tiene que hacerse de manera gradual, lenta y en orden inverso al que hemos seguido
-    para llegar a la posici\xF3n final de la Postura del h\xE9roe II.\n"
+    de respiraci\xF3n 5-10-10.\r\n\r\nColoca los brazos en jarra, con las manos en
+    las caderas. Respira profundamente\r\n\r\nAbre las piernas ampliamente. Tienes
+    que abrirlas tanto que las rodillas y los codos formen una l\xEDnea totalmente
+    vertical. Piensa c\xF3mo tienes los brazos. Notar\xE1s un poquito de tensi\xF3n
+    en las piernas y sabr\xE1s que lo que est\xE1s haciendo est\xE1 bien. Aguanta
+    el aire. \r\n\r\nGira el pie derecho para que apunte hacia afuera y dobla la
+    pierna derecha, echando el cuerpo hacia ese lado. Mientras, sigues con las manos
+    en las caderas y la espalda recta. Mira la posici\xF3n de tu rodilla derecha,
+    que tiene que estar justo encima del tobillo.\r\n\r\nAhora expulsa el aire de
+    tus pulmones y vuelve a respirar profundamente.\r\n\r\nAbre los brazos y ponlos
+    en cruz, estirados, firmes, con los dedos extendidos. Gira la cabeza hacia el
+    lado derecho. Percibe la fuerza que hace tu cuerpo y que se reparte entre sus
+    miembros, controlada gracias a tu mente. Aguanta 10 segundos. \r\n\r\nExpulsa
+    el aire mientras pones fin al asana. Tiene que hacerse de manera gradual, lenta
+    y en orden inverso al que hemos seguido para llegar a la posici\xF3n final de
+    la Postura del h\xE9roe II.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -25201,10 +25203,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Este bot\xF3n presenta varios ajustes, entre ellos:\n-Pantalla Completa:
-    Permite ajustar si la aplicaci\xF3n se ejecuta o no en pantalla completa.\n-Sonidos:
-    Permite ajustar si la aplicaci\xF3n emite sonido al pulsar botones.\n-Musica:
-    Permite ajustar si la aplicaci\xF3n reproduce la muscia de fondo."
+  m_text: "Este bot\xF3n presenta varios ajustes, entre ellos:\r\n-Pantalla Completa:
+    Permite ajustar si la aplicaci\xF3n se ejecuta o no en pantalla completa.\r\n-Sonidos:
+    Permite ajustar si la aplicaci\xF3n emite sonido al pulsar botones.\r\n-M\xFAsica:
+    Permite ajustar si la aplicaci\xF3n reproduce la m\xFAsica de fondo.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -25273,9 +25275,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 614423918}
-    characterCount: 286
+    characterCount: 291
     spriteCount: 0
-    spaceCount: 42
+    spaceCount: 43
     wordCount: 43
     linkCount: 0
     lineCount: 10
@@ -25665,7 +25667,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Hemiplejicos
+          m_StringArgument: "Hemipl\xE9jicos"
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 574048917}
@@ -26101,11 +26103,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Julian Hern\xE1ndez Dominguez. Profesor de Educaci\xF3n F\xEDsica. Direcci\xF3n
-    de Deportes. Universidad de las Ciencias Inform\xE1ticas. Doctor por la Universidad
-    de Granada, Espa\xF1a. Profesor Titular de universidad. Las l\xEDneas de investigaci\xF3n
-    principales est\xE1n \r\nrelacionadas con la transformaci\xF3n digital en la
-    actividad f\xEDsico deportiva. "
+  m_text: "Juli\xE1n Hern\xE1ndez Dom\xEDnguez. Profesor de Educaci\xF3n F\xEDsica.
+    Direcci\xF3n de Deportes. Universidad de las Ciencias Inform\xE1ticas. Doctor
+    por la Universidad de Granada, Espa\xF1a. Profesor Titular de universidad. Las
+    l\xEDneas de investigaci\xF3n principales est\xE1n \r\nrelacionadas con la transformaci\xF3n
+    digital en la actividad f\xEDsico-deportiva.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -31592,16 +31594,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sit\xFAate de pie, y estira la espalda . Realiza un ciclo de respiraci\xF3n
-    5-10-10 (inspira-aguanta-expulsa).\n\nSepara los pies arlededor de seis cent\xEDmetros
+  m_text: "Sit\xFAate de pie, y estira la espalda. Realiza un ciclo de respiraci\xF3n
+    5-10-10 (inspira-aguanta-expulsa).\r\n\r\nSepara los pies alrededor de seis cent\xEDmetros
     m\xE1s o menos, eleva los brazos y est\xEDralos. Tienen que quedar los brazos
-    en vertical.\n\nDa un gran paso al frente con la pierna derecha, dejando quieta
-    la izquierda, e incl\xEDnate sobre la derecha, que formar\xE1 un \xE1ngulo cercano
-    a los 90 grados. Comprueba que la rodilla est\xE1 encima del tobillo.\n\nLa pierna
-    izquierda est\xE1 en tensi\xF3n, y con la derecha se soporta el peso. Es normal
-    no tener totalmente apoyada la planta del pie que queda atrasado, pero trata
-    de apoyar toda la superficie que puedas.\n\nMant\xE9n la espalda recta con los
-    brazos en alto. 10 segundos as\xED y vuelve a la posici\xF3n original."
+    en vertical.\r\n\r\nDa un gran paso al frente con la pierna derecha, dejando
+    quieta la izquierda, e incl\xEDnate sobre la derecha, que formar\xE1 un \xE1ngulo
+    cercano a los 90 grados. Comprueba que la rodilla est\xE1 encima del tobillo.\r\n\r\nLa
+    pierna izquierda est\xE1 en tensi\xF3n, y con la derecha se soporta el peso.
+    Es normal no tener totalmente apoyada la planta del pie que queda atrasado, pero
+    trata de apoyar toda la superficie que puedas.\r\n\r\nMant\xE9n la espalda recta
+    con los brazos en alto. 10 segundos as\xED y vuelve a la posici\xF3n original.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32356,24 +32358,24 @@ MonoBehaviour:
     un metro (o la misma longitud de tu pierna). Afirma las piernas elevando las
     r\xF3tulas y manteniendo los muslos activos. Estira todo el tronco y la cabeza
     hacia arriba. Inspirando, eleva los brazos lateralmente, con las palmas de las
-    manos hacia abajo y los dedos juntos , hasta que queden en cruz con el tronco
-    al mismo nivel de los hombros. La postura ha de irradiar una actitud de firmeza.\n\nGu\xEDa
+    manos hacia abajo y los dedos juntos, hasta que queden en cruz con el tronco
+    al mismo nivel de los hombros. La postura ha de irradiar una actitud de firmeza.\r\n\r\nGu\xEDa
     el pie izquierdo ligeramente hacia dentro y el pie derecho 90 grados a la derecha.
     El tal\xF3n derecho ha de quedar en l\xEDnea con el arco de la planta izquierda
     y la rodilla derecha alineada con los dedos del pie derecho. Mant\xE9n las r\xF3tulas
-    levantadas, los muslos activos, el tronco y los brazos muy estirados.\n\nEspirando,
+    levantadas, los muslos activos, el tronco y los brazos muy estirados.\r\n\r\nEspirando,
     baja el tronco lateralmente hacia la derecha, llevando la pelvis hacia la izquierda
     a medida que desciendes. Apoya la mano derecha sobre el tobillo derecho y estira
     el brazo izquierdo hacia arriba, en prolongaci\xF3n del brazo derecho y con la
     palma de la mano hacia el frente. Alarga la columna desde el sacro a la cervicales
     y gira el tronco hacia arriba. Estira la zona posterior del cuello y gira la
-    cabeza hacia arriba dirigiendo la mirada a la mano izquierda.\n\nMant\xE9n la
-    postura diez segundos, respirando normalmente y luego , inspirando, vuelve a
-    la posici\xF3n vertical. Espirando, baja los brazos y sit\xFAa los pies hacia
+    cabeza hacia arriba dirigiendo la mirada a la mano izquierda.\r\n\r\nMant\xE9n
+    la postura diez segundos, respirando normalmente y luego, inspirando, vuelve
+    a la posici\xF3n vertical. Espirando, baja los brazos y sit\xFAa los pies hacia
     adelante. Despu\xE9s de una breve pausa, haz la postura hacia el lado izquierdo
-    observando las mismas pautas. Repite la psotura otra vez hacia ambos lados. En
+    observando las mismas pautas. Repite la postura otra vez hacia ambos lados. En
     esta ocasi\xF3n alargando la estancia hasta 20 o 30 segundos, o el tiempo que
-    te resulte confortable.\n"
+    te resulte confortable.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32655,9 +32657,9 @@ RectTransform:
   m_Father: {fileID: 73050825}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 351.5, y: -680.3}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 703, y: 454.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &786270579
@@ -32678,7 +32680,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<b>Fecha de creaci\xF3n:</b>\nJunio de 2023\n\n<b>Version: </b> 1.1\n\n<b>Desarrollador:</b>\nMario
+  m_text: "<b>Fecha de creaci\xF3n:</b>\nJunio de 2023\n\n<b>Versi\xF3n: </b> 1.1\n\n<b>Desarrollador:</b>\nMario
     Rivero Garc\xEDa\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -33107,9 +33109,9 @@ RectTransform:
   m_Father: {fileID: 73050825}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 351.5, y: -425.3}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 703, y: 55.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &801363517
@@ -34589,8 +34591,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "En esta secci\xF3n encontraras 15 documentos con ejercicios fisico terap\xE9uticos
-    para distintos padecimientos."
+  m_text: "En esta secci\xF3n encontraras 15 documentos con ejercicios f\xEDsico
+    terap\xE9uticos para distintos padecimientos."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -35397,20 +35399,20 @@ MonoBehaviour:
   m_text: "Prepara la extensi\xF3n: Eleva el pubis hacia el estern\xF3n, y el estern\xF3n
     y la barbilla hacia arriba, mira al techo. Gira tus hombros hacia atr\xE1s y
     abajo, y extiende tus codos m\xE1s hacia atr\xE1s. Ahora est\xE1s listo para
-    ir hacia adelante.\n\nManos al suelo, brazos alineados con hombros. Felxionando
+    ir hacia adelante.\r\n\r\nManos al suelo, brazos alineados con hombros. Flexionando
     desde la articulaci\xF3n de la cadera, extiende tu torso hacia adelante gui\xE1ndolo
     con la barbilla y el estern\xF3n hasta colocar tu pecho paralelo al piso. Apoya
-    manos en suelo en l\xEDnea con hombros.\n\nExtiende la columna hacia delante
+    manos en suelo en l\xEDnea con hombros.\r\n\r\nExtiende la columna hacia delante
     para que se haga c\xF3ncava. Esto no significa hundir la zona lumbar. Contin\xFAa
     extendi\xE9ndote m\xE1s hacia delante desde el pubis hacia el ombligo y del ombligo
-    hacia el estern\xF3n.\n\nMueve manos hacia atr\xE1s en l\xEDnea con los pies,
+    hacia el estern\xF3n.\r\n\r\nMueve manos hacia atr\xE1s en l\xEDnea con los pies,
     y contin\xFAa haciendo c\xF3ncava la columna. Si est\xE1s usando bloques, tambi\xE9n
     mu\xE9velos. Empuja el suelo con las manos para ayudarte a largar mientras bajas.
     Si tu cabeza no alcanza el piso, ap\xF3yala sobre u bloque (para obtener el refrescante
-    efecto de inversi\xF3n de esta psotura).\n\nEspalda redondeada ahora en la postura.
-    Tus piernas no deben inclinarse hacia atr\xE1s ni hacia adelante, sino quedarse
-    directamente sobre la l\xEDnea de los talones. Eleva tu zona lumbar dejando que
-    se redondee suavemente y lleva la zona dorsal hacia adentro del cuerpo."
+    efecto de inversi\xF3n de esta postura).\r\n\r\nEspalda redondeada ahora en la
+    postura. Tus piernas no deben inclinarse hacia atr\xE1s ni hacia adelante, sino
+    quedarse directamente sobre la l\xEDnea de los talones. Eleva tu zona lumbar
+    dejando que se redondee suavemente y lleva la zona dorsal hacia adentro del cuerpo.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -36312,7 +36314,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Fijaci\xF3n anormal de fibras de col\xE1geno a las estructuras circundantes
     durante la inmovilizaci\xF3n, despu\xE9s de un traumatismo, o como complicaci\xF3n
-    de una pperaci\xF3n, que restringe la elasticidad normal de las estructuras implicadas."
+    de una operaci\xF3n, que restringe la elasticidad normal de las estructuras implicadas."
 --- !u!222 &898548224
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -36511,9 +36513,9 @@ RectTransform:
   m_Father: {fileID: 73050825}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 351.5, y: -1015.05}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 579.5, y: 104.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &905890944
@@ -37685,9 +37687,9 @@ RectTransform:
   m_Father: {fileID: 73050825}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 351.5, y: -935.3}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 703, y: 55.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &929335179
@@ -39828,26 +39830,27 @@ MonoBehaviour:
     todos los dedos excepto el dedo gordo y dejando abajo el resto de sus dedos e
     invierta esto, levante todos los dedos excepto el dedo gordo; observar\xE1 que
     ello se logra por el apoyo del arco externo en el primer caso y en el arco interno
-    en el segundo. Notar\xE1 el efecto si tiene los pies planos o metatarsos ca\xEDdos.\n\nLas
+    en el segundo. Notar\xE1 el efecto si tiene los pies planos o metatarsos ca\xEDdos.\r\n\r\nLas
     rodillas son el punto medio entre los pies y las caderas. Resulta ser una articulaci\xF3n
     para cuidar por su caracter\xEDstica articular, que recibir\xE1 beneficios, pero
     es necesario que les dedique atenci\xF3n en todas las posturas. Particularmente
-    la rotula elevada en Tad\xE1sana y esto ser\xE1 una recomendaci\xF3n habitual.
+    la r\xF3tula elevada en Tad\xE1sana y esto ser\xE1 una recomendaci\xF3n habitual.
     Esta elevaci\xF3n de la r\xF3tula se producir\xE1 por contracci\xF3n de los cu\xE1driceps
-    (muslos), pero cu\xEDdese de no empujar hacia atr\xE1s la rodilla y crear hiperextensi\xF3n.\n\nUna
-    vez contra\xEDdos los cu\xE1driceps , sienta el balance entre el pubis y el c\xF3ccix
-    , no podr\xE1 sentir que las vertebras lumbrales se hunden(lordosis) o que el
-    pubis esta levantado y las vertebras lumbrales se aplanan. Esta relaci\xF3n pubis-c\xF3ccix
-    requerir\xE1 de mucha atenci\xF3n cuando ejecute determinadas posturas.\n\nEl
-    pecho se mantendr\xE1 elevado sin forzarse y aprender\xE1 a mantener los hombros
-    abajo y atr\xE1s con sus trapecios descendidos, a\xFAn cuando eleve sus brazos
-    en l\xEDnea con sus hombros o cuando los eleve por encima de su cabeza.\n\nLa
-    cabeza erguida -sin desplazarla hacia adelante- y la mand\xEDbula paralela al
-    suelo. Mantenga su mirada serena y directamente al frente. Ahora respiraci\xF3n
-    abdominal y nunca retener el aliento.\n\nPermanezca en la postura de 1 a 2 minutos,
-    observando detenidamente desde los pies hasta el tope de la cabeza, todos los
-    elementos que ha aprendido sobre ella. Si lo desea puede cerrar los ojos por
-    un momento para sentir la totalidad de la postura , luego abra sus ojos."
+    (muslos), pero cu\xEDdese de no empujar hacia atr\xE1s la rodilla y crear hiperextensi\xF3n.\r\n\r\nUna
+    vez contra\xEDdos los cu\xE1driceps, sienta el balance entre el pubis y el c\xF3ccix,
+    no podr\xE1 sentir que las v\xE9rtebras lumbrales se hunden(lordosis) o que el
+    pubis esta levantado y las v\xE9rtebras lumbrales se aplanan. Esta relaci\xF3n
+    pubis-c\xF3ccix requerir\xE1 de mucha atenci\xF3n cuando ejecute determinadas
+    posturas.\r\n\r\nEl pecho se mantendr\xE1 elevado sin forzarse y aprender\xE1
+    a mantener los hombros abajo y atr\xE1s con sus trapecios descendidos, aun cuando
+    eleve sus brazos en l\xEDnea con sus hombros o cuando los eleve por encima de
+    su cabeza.\r\n\r\nLa cabeza erguida -sin desplazarla hacia adelante- y la mand\xEDbula
+    paralela al suelo. Mantenga su mirada serena y directamente al frente. Ahora
+    respiraci\xF3n abdominal y nunca retener el aliento.\r\n\r\nPermanezca en la
+    postura de 1 a 2 minutos, observando detenidamente desde los pies hasta el tope
+    de la cabeza, todos los elementos que ha aprendido sobre ella. Si lo desea puede
+    cerrar los ojos por un momento para sentir la totalidad de la postura, luego
+    abra sus ojos.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -42244,17 +42247,17 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "En la barra lateral se encuentra el bot\xF3n que abre la ventana de las
-    calculadoras , en esta puede realizar distintas acciones. Por ejemplo:\n-Desplazar
+    calculadoras, en esta puede realizar distintas acciones. Por ejemplo:\r\n-Desplazar
     la ventana: Si pulsamos la ventana y deslizamos el dedo podemos desplazarla por
-    la pantalla y posicionarla en otro lugar.\n-Cerrar: El boton de la esquina superior
-    derecha de la ventana permite cerrar las calculadoras.\n\nExisten 3 calculadoras:\n\nIMC:
-    Calculadora para calcular el \xEDndice de masa corporal, debemos ingresar nuestro
-    peso y nuestra altura, esto nos devuelve el valor n\xFAmerico de nuestro indice
-    y adem\xE1s una clasificaci\xF3n.\nFM: Calculadora para calcular la fuerza m\xE1xima
-    , dicha fuerza se realiza en diferentes planos musculares, se debe ingresar las
-    repeticiones y el peso usado y nos devuelve el valor de fuerza m\xE1xima correspondiente.\nPE:
-    Calculadora para calcular el pulso de entrenamiento , se debe ingresar la frecuencia
-    c\xE1rdiaca en reposo y la m\xE1xima."
+    la pantalla y posicionarla en otro lugar.\r\n-Cerrar: El bot\xF3n de la esquina
+    superior derecha de la ventana permite cerrar las calculadoras.\r\n\r\nExisten
+    3 calculadoras:\r\n\r\nIMC: Calculadora para calcular el \xEDndice de masa corporal,
+    debemos ingresar nuestro peso y nuestra altura, esto nos devuelve el valor num\xE9rico
+    de nuestro \xEDndice y adem\xE1s una clasificaci\xF3n.\r\nFM: Calculadora para
+    calcular la fuerza m\xE1xima, dicha fuerza se realiza en diferentes planos musculares,
+    se debe ingresar las repeticiones y el peso usado y nos devuelve el valor de
+    fuerza m\xE1xima correspondiente.\r\nPE: Calculadora para calcular el pulso de
+    entrenamiento, se debe ingresar la frecuencia card\xEDaca en reposo y la m\xE1xima.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -42323,9 +42326,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1023178148}
-    characterCount: 918
+    characterCount: 925
     spriteCount: 0
-    spaceCount: 147
+    spaceCount: 145
     wordCount: 143
     linkCount: 0
     lineCount: 29
@@ -42804,7 +42807,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Masaje manual de aplicaciones coporales, para relajar m\xFAsculos tensos
+  m_Text: "Masaje manual de aplicaciones corporales, para relajar m\xFAsculos tensos
     y aliviar dolores de espalda."
 --- !u!222 &1032515433
 CanvasRenderer:
@@ -43122,9 +43125,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "La barra lateral se abre pulsando en el bot\xF3n del men\xFA hamburguesa
-    o  si presionamos en alguna parte toda la zona inferior de este bot\xF3n y de
-    su ancho y luego desplazamos el dedo hacia la derecha.\nEsta barra contiene 6
-    botones."
+    o si presionamos en alguna parte toda la zona inferior de este bot\xF3n y de
+    su ancho y luego desplazamos el dedo hacia la derecha.\r\nEsta barra contiene
+    6 botones.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -43193,7 +43196,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1037312090}
-    characterCount: 227
+    characterCount: 229
     spriteCount: 0
     spaceCount: 42
     wordCount: 42
@@ -44030,7 +44033,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 360, y: -22.849976}
+  m_AnchoredPosition: {x: 360, y: -22.85}
   m_SizeDelta: {x: 655.3, y: 45.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1056480802
@@ -44207,8 +44210,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Este bot\xF3n abre un apartado que contiene informaci\xF3n sobre el doctor
-    y profesor Julian Hern\xE1ndez Dominguez , especialista sobre el tema y presenta
-    diversas v\xEDas para contactar con \xE9l, su blog entre otras cosas."
+    y profesor Juli\xE1n Hern\xE1ndez Dom\xEDnguez, especialista sobre el tema y
+    presenta diversas v\xEDas para contactar con \xE9l, su blog entre otras cosas."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -44277,9 +44280,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1067116017}
-    characterCount: 210
+    characterCount: 209
     spriteCount: 0
-    spaceCount: 33
+    spaceCount: 32
     wordCount: 33
     linkCount: 0
     lineCount: 6
@@ -47871,7 +47874,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Secci\xF3n de <b>Actividades Ac\xFAaticas </b>para la salud"
+  m_text: "Secci\xF3n de <b>Actividades Acu\xE1ticas </b>para la salud"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -52682,9 +52685,9 @@ RectTransform:
   m_Father: {fileID: 73050825}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 351.5, y: -236.09998}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 703, y: 323}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1262138644
@@ -55291,8 +55294,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "En esta secci\xF3n encontrar\xE1s 6 masajes , con sus respectivos conceptos
-    , objetivos y movimientos que se aplican."
+  m_text: "En esta secci\xF3n encontrar\xE1s 6 masajes, con sus respectivos conceptos,
+    objetivos y movimientos que se aplican."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -55361,9 +55364,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1310339644}
-    characterCount: 111
+    characterCount: 109
     spriteCount: 0
-    spaceCount: 17
+    spaceCount: 15
     wordCount: 16
     linkCount: 0
     lineCount: 3
@@ -60119,15 +60122,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Comienza de pie en Tadana. \n\nDa un paso hacia un lado para separar los
-    pies un metro. Inspira y levanta los brazos a la altura de los hombros con las
-    palmas hacia abajo. Gira el pie derecho 90 grados y el izquierdo 60 grados, a
-    la derecha.\n\nDobla la rodilla derecha 90 grados . Apoya el pie en el suelo.
+  m_text: "Comienza de pie en Tadana. \r\n\r\nDa un paso hacia un lado para separar
+    los pies un metro. Inspira y levanta los brazos a la altura de los hombros con
+    las palmas hacia abajo. Gira el pie derecho 90 grados y el izquierdo 60 grados,
+    a la derecha.\r\n\r\nDobla la rodilla derecha 90 grados. Apoya el pie en el suelo.
     Estira y gira el tronco lateralmente, coloca el brazo derecho junto a la pierna
-    derecha.\n\nEstira y gira m\xE1s el cuerpo, levanta la pierna izquierda. Estira
-    el brazo izquierdo y sube el hombro para abrir el pecho. Mant\xE9n la pierna
-    derecha recta con el tal\xF3n firmemente apoyado. Aguanta 20-30 segundos. Termina
-    suavemente y repite hacia el otro lado."
+    derecha.\r\n\r\nEstira y gira m\xE1s el cuerpo, levanta la pierna izquierda.
+    Estira el brazo izquierdo y sube el hombro para abrir el pecho. Mant\xE9n la
+    pierna derecha recta con el tal\xF3n firmemente apoyado. Aguanta 20-30 segundos.
+    Termina suavemente y repite hacia el otro lado.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -62178,7 +62181,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pacientes Hemipleticos
+  m_Text: "Pacientes Hemipl\xE9jicos."
 --- !u!222 &1465483566
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -62539,7 +62542,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\xA9 AFIT v1.1 - MarioRG "
+  m_text: "\xA9 AFIT v1.1f - MarioRG "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -62608,7 +62611,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1477514944}
-    characterCount: 22
+    characterCount: 23
     spriteCount: 0
     spaceCount: 5
     wordCount: 6
@@ -63098,7 +63101,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "En esta secci\xF3n encontrar\xE1s 12 posturas de yoga con fotos, y al
-    interactuar con ellas podras ver descripci\xF3n de como realizarlas. "
+    interactuar con ellas podr\xE1s ver descripci\xF3n de como realizarlas. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -63800,8 +63803,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 51, y: 0}
-  m_SizeDelta: {x: -213.2, y: -34.1}
+  m_AnchoredPosition: {x: 62.5, y: 0}
+  m_SizeDelta: {x: -125, y: -34.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1511817538
 MonoBehaviour:
@@ -63834,7 +63837,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PROYETO EN GITHUB
+  m_Text: PROYECTO EN GITHUB
 --- !u!222 &1511817539
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -63977,9 +63980,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Al abrir estos documentos se pueden realizar distintas acciones, parecidas
     a las realizadas con un visor de PDF normal, como por ejemplo:\n<b>-Alejar vista:</b>
-    Se realiza pelliscando la pantalla con dos dedos.\n<b>-Acercar vista:</b> Se
-    realiza haciendo la acci\xF3n inversa a pelliscar.\n<b>-Desplazamiento horizontal
-    y vertical:</b> Tocando la pantalla y desplazando el dedo en la dirrecci\xF3n
+    Se realiza pellizcando la pantalla con dos dedos.\n<b>-Acercar vista:</b> Se
+    realiza haciendo la acci\xF3n inversa a pellizcar.\n<b>-Desplazamiento horizontal
+    y vertical:</b> Tocando la pantalla y desplazando el dedo en la direcci\xF3n
     deseada."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -64049,7 +64052,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1514633779}
-    characterCount: 376
+    characterCount: 375
     spriteCount: 0
     spaceCount: 56
     wordCount: 57
@@ -64348,7 +64351,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Masaje Terap\xE9utico Decontracturante"
+  m_Text: "Masaje Terap\xE9utico Descontracturante "
 --- !u!222 &1522331372
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -69304,7 +69307,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "En esta secci\xF3n encontrar\xE1s un documento  sobre nataci\xF3n terap\xE9utica
     con todo bien explicado, se comporta de la misma manera que los documentos que
-    estan en la seccion de ejercicios terap\xE9uticos."
+    est\xE1n en la secci\xF3n de ejercicios terap\xE9uticos."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -70176,8 +70179,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Si encuentra algun error o tiene alguna sugerencia para mejorar la aplicaci\xF3n
-    puede reportarlo escribiendo un mensaje al siguiente correo:"
+  m_text: "Si encuentra alg\xFAn error o tiene alguna sugerencia para mejorar la
+    aplicaci\xF3n puede reportarlo escribiendo un mensaje al siguiente correo:"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -73426,7 +73429,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Este bot\xF3n nos redirige a la p\xE1gina de apklis de la aplicaci\xF3n
-    para que le pueda dar una valoraci\xF3n. Se lo agradeceriamos!."
+    para que le pueda dar una valoraci\xF3n. \xA1Se lo agradecer\xEDamos!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -74489,10 +74492,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "En esta secci\xF3n encontrar\xE1s un glosario con muchos t\xE9rminos terapeuticos
-    , adem\xE1s de que incluye un buscador para localizarlos con mejor facilidad,
-    simplemente escribes el nombre del t\xE9rmino que buscas le das en \"aceptar\"
-    y aparecer\xE1."
+  m_text: "En esta secci\xF3n encontrar\xE1s un glosario con muchos t\xE9rminos terap\xE9uticos,
+    adem\xE1s de que incluye un buscador para localizarlos con mejor facilidad, simplemente
+    escribes el nombre del t\xE9rmino que buscas le das en \"aceptar\" y aparecer\xE1."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -74561,9 +74563,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1761141301}
-    characterCount: 234
+    characterCount: 233
     spriteCount: 0
-    spaceCount: 35
+    spaceCount: 34
     wordCount: 35
     linkCount: 0
     lineCount: 7
@@ -75545,13 +75547,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Parado en Tad\xE1sana. Inhalar profundamente y elevar los brazos pro encima
-    de la cabeza, exhalar y felxionar el tronco hasta poner las manos en el piso
+  m_text: "Parado en Tad\xE1sana. Inhalar profundamente y elevar los brazos por encima
+    de la cabeza, exhalar y flexionar el tronco hasta poner las manos en el piso
     al lado de los pies. El cuello relajado y el abdomen con respiraci\xF3n r\xEDtmica
-    y suave.\n\nOtra forma es cuando elevas sus brazos, entonces los entrecruzas
-    formando un cuadrado encima de su cabeza, exhala y desciende el tronco.\n\nPermanezca
-    en la postura 20 segundos con incremento discreto cuando la tenga dominada. Realize
-    unas 4 repeticiones."
+    y suave.\r\n\r\nOtra forma es cuando elevas sus brazos, entonces los entrecruzas
+    formando un cuadrado encima de su cabeza, exhala y desciende el tronco.\r\n\r\nPermanezca
+    en la postura 20 segundos con incremento discreto cuando la tenga dominada. Realice
+    unas 4 repeticiones.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -76402,25 +76404,25 @@ MonoBehaviour:
     vueltas hacia el suelo. Estira los brazos desde la cara posterior de los codos.
     Aseg\xFArate de que los pies se hallen alineados entre s\xED, con los dedos dirigidos
     hacia delante. Desciende los bordes externos de los pies. Presiona contra el
-    suelo el quinto dedo (me\xF1ique) de cada pie.\n\nEstira despacio y gira simult\xE1neamente
-    la pierna y el pie izquierdos 90 grados hacia la izquierda. Al mismo tiempo,
-    gira el pie derecho meti\xE9ndolo ligeramente hacia la ziquierda. Estira la pierna
-    derecha y t\xE9nsala en la rodilla. Aseg\xFArate de que el peso recaiga sobre
-    el tal\xF3n, no sbre los dedos del pie izquierdo. Ajusta, si es necesario, la
-    distancia existente entre las piernas. Asegurate de que los pies permanezcan
-    alineados entre s\xED.\n\nNota: Al girar la pierna izquierda, conc\xE9ntrate
-    en pivotar el muslo hacia fuera. Esto reduce la presi\xF3n sobre la rodilla izquierda.\n\nFlexiona
-    la rodilla izquierda hasta que el muslo y la pantorrilla formen un \xE1ngulo
-    recto, y el muslo izquierdo se halle paralelo al suelo. Gira ligeramente hacia
-    la izquierda esa misma rodilla flexionada. Mant\xE9n erguido el tronco (no debe
-    inclinarse hacia la izquierda). Realiza una o dos respiraciones.\n\nEspira y
-    coloca la palma de la mano izquierda en el suelo junto al pie derecho. Aseg\xFArate
-    de que la axila izquierda se halla en contacto con la cara externa de la rodilla
-    flexionada. Extiende el brazo derecho sobre la oreja derecha. Gira la cabeza
-    y alza la vista. Mant\xE9n la postura durante 20-30 segundos, de 4 a 6 repeticiones.\n\nNota:
-    Espirando , estira primero el brazo izquierdo. A continuaci\xF3n, b\xE1jalo al
-    suelo. Puedes colocar en el suelo las yemas de los dedos, en vez de la palma
-    de la mano. "
+    suelo el quinto dedo (me\xF1ique) de cada pie.\r\n\r\nEstira despacio y gira
+    simult\xE1neamente la pierna y el pie izquierdos 90 grados hacia la izquierda.
+    Al mismo tiempo, gira el pie derecho meti\xE9ndolo ligeramente hacia la izquierda.
+    Estira la pierna derecha y t\xE9nsala en la rodilla. Aseg\xFArate de que el peso
+    recaiga sobre el tal\xF3n, no sobre los dedos del pie izquierdo. Ajusta, si es
+    necesario, la distancia existente entre las piernas. Aseg\xFArate de que los
+    pies permanezcan alineados entre s\xED.\r\n\r\nNota: Al girar la pierna izquierda,
+    conc\xE9ntrate en pivotar el muslo hacia fuera. Esto reduce la presi\xF3n sobre
+    la rodilla izquierda.\r\n\r\nFlexiona la rodilla izquierda hasta que el muslo
+    y la pantorrilla formen un \xE1ngulo recto, y el muslo izquierdo se halle paralelo
+    al suelo. Gira ligeramente hacia la izquierda esa misma rodilla flexionada. Mant\xE9n
+    erguido el tronco (no debe inclinarse hacia la izquierda). Realiza una o dos
+    respiraciones.\r\n\r\nEspira y coloca la palma de la mano izquierda en el suelo
+    junto al pie derecho. Aseg\xFArate de que la axila izquierda se halla en contacto
+    con la cara externa de la rodilla flexionada. Extiende el brazo derecho sobre
+    la oreja derecha. Gira la cabeza y alza la vista. Mant\xE9n la postura durante
+    20-30 segundos, de 4 a 6 repeticiones.\r\n\r\nNota: Espirando, estira primero
+    el brazo izquierdo. A continuaci\xF3n, b\xE1jalo al suelo. Puedes colocar en
+    el suelo las yemas de los dedos, en vez de la palma de la mano.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -76812,18 +76814,19 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Parado en Tad\xE1sana. Mantenga la mirada fija en un punto directamente
-    frente a usted. Despliegue el peso del cuerpo hacia la pierna izquieda y tomese
+    frente a usted. Despliegue el peso del cuerpo hacia la pierna izquierda y t\xF3mese
     el tobillo con su mano y coloque el pie en la parte interna y ra\xEDz de su muslo
-    izquierdo.Pliegue sus manos en el pecho con el gesto (mudar\xE1) de Namaste (saludo
-    indio).\n\nNo permita que su pie de apoyo cambie de posici\xF3n ni que su pierna
-    se debilite. Que el muslo de la pierna felxionada este en l\xEDnea con la cadera
-    . Es muy com\xFAn que su pierna flexionada se resbale por lo que se \xFAtiliza
-    las variaciones:\n\n1- Usando una silla, permite agarrar el respaldo de esta
-    con la mano de la peirna apoyada;\n2- Apoyado contra la pared, resuelve dos dificultades
-    bien comunes, el equilibrio y da la posibilidad de bajar la acadera de la pierna
-    elevada.\n\nPermanezca en la postura de 20 segundos u 8 repeticiones. Mantenga
-    la intenci\xF3n de estirar el torso y la cabeza y sentir la conexi\xF3n de las
-    piernas y pies en el suelo. Realice 4 repeticiones con cada pierna."
+    izquierdo. Pliegue sus manos en el pecho con el gesto (mudar\xE1) de Namaste
+    (saludo indio).\r\n\r\nNo permita que su pie de apoyo cambie de posici\xF3n ni
+    que su pierna se debilite. Que el muslo de la pierna flexionada este en l\xEDnea
+    con la cadera. Es muy com\xFAn que su pierna flexionada se resbale por lo que
+    se utiliza las variaciones:\r\n\r\n1- Usando una silla, permite agarrar el respaldo
+    de esta con la mano de la pierna apoyada;\r\n2- Apoyado contra la pared, resuelve
+    dos dificultades bien comunes, el equilibrio y da la posibilidad de bajar la
+    cadera de la pierna elevada.\r\n\r\nPermanezca en la postura de 20 segundos u
+    8 repeticiones. Mantenga la intenci\xF3n de estirar el torso y la cabeza y sentir
+    la conexi\xF3n de las piernas y pies en el suelo. Realice 4 repeticiones con
+    cada pierna.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -77510,9 +77513,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Verdaderamente espero que esta aplicaci\xF3n les sea de ayuda, se puso
-    mucho esfuerzo en ella , cualquier error  o sugerencia recuerden reportarlo para
-    mejorar la aplicaci\xF3n, se lo agradeceria mucho.\n\nLa aplicaci\xF3n es completamente
-    gratuita y de codigo abierto, pueden encontrar el proyecto en Github. "
+    mucho esfuerzo en ella, cualquier error o sugerencia recuerden reportarlo para
+    mejorar la aplicaci\xF3n, se lo agradecer\xEDa mucho.\r\n\r\nLa aplicaci\xF3n
+    es completamente gratuita y de c\xF3digo abierto, pueden encontrar el proyecto
+    en GitHub.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -77581,9 +77585,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1827460621}
-    characterCount: 301
+    characterCount: 300
     spriteCount: 0
-    spaceCount: 47
+    spaceCount: 45
     wordCount: 44
     linkCount: 0
     lineCount: 10
@@ -77753,9 +77757,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "El perder o disminuci\xF3n de tama\xF1o de una celula de un tejido fino,
-    de un \xF3rgano, o de una parte del cuerpo causado por la carencia del alimento,
-    de la inactividad, o de la p\xE9rdida de fuente de nervio."
+  m_Text: "La p\xE9rdida o disminuci\xF3n de tama\xF1o de una c\xE9lula de un tejido
+    fino, de un \xF3rgano, o de una parte del cuerpo causado por la carencia del
+    alimento, de la inactividad, o de la p\xE9rdida de la fuente del nervio."
 --- !u!222 &1829035138
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -81738,8 +81742,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "En esta aplicaci\xF3n podr\xE1s realizar distintas acciones , por ejemplo:\n\n<b>-Desplazamiento
     Vertical</b>: Puedes desplazarte verticalmente por la pantalla para poder ver
-    las partes que no quepan en esta. Est\xE1 acci\xF3n se realiza pulsando la pantalla
-    y moviendo el dedo verticalmente. \n\n<b>-Desplazamiento Horizontal</b>: En alg\xFAnos
+    las partes que no quepan en esta. Esta acci\xF3n se realiza pulsando la pantalla
+    y moviendo el dedo verticalmente. \n\n<b>-Desplazamiento Horizontal</b>: En algunos
     casos tambien puedes desplazarte horizontalmente, se realiza de la misma manera
     pero en horizontal.\n\n<b>-Interactuar</b>: Puedes interactuar con elementos
     de la pantalla simplemente pulsando sobre ellos, como por ejemplo puedes pulsar
@@ -84903,20 +84907,20 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Sit\xFAate de pie, y estira la espalda. Realiza un ciclo de respiraci\xF3n
     5-10-10 (inspira-aguanta-expulsa). Inspira profundamente. Empieza a contar hasta
-    10 interiormente.\n\nEcha la parte superior del cuerpo hacia adelante, manteniendo
+    10 interiormente.\r\n\r\nEcha la parte superior del cuerpo hacia adelante, manteniendo
     las piernas tan rectas como puedas. Pon las manos en las rodillas. Aguanta el
-    aire hasta llegar a los 10 segundos y exp\xFAlsalo. Vuelve a inspirar.\n\nMant\xE9n
-    el pie izquierdo y da un largo paso hacia atr\xE1s con la pierna derecha. Ap\xF3yandote
+    aire hasta llegar a los 10 segundos y exp\xFAlsalo. Vuelve a inspirar.\r\n\r\nMant\xE9n
+    el pie izquierdo y da un largo paso hacia atr\xE1s con la pierna derecha. Apoy\xE1ndote
     en la rodilla izquierda con ambas manos, y que esta quede justo encima del tobillo.
-    Aguanta el aire.\n\nDespega la planta del pie derecho, mientras te impulsas hacia
-    adelante, haciendo fuerza con las manos en la rodilla ziquierda, que ahora estar\xE1
-    m\xE1s adelantada que el tobillo.\n\nEmpuja con las manos en la pierna izquierda,
-    pero m\xE1s arriba, cerca de la cadera, en los muslos. La pierna derecha tiene
-    que llegar a aestar paralela a tu colchoneta, formando una l\xEDnea recta con
-    la espalda. Expulsa el aire.\n\nUna vez que ya est\xE1s en equilibrio deja de
-    apoyar las manos y lev\xE1ntalas lentamente, hasta llegar a formar una l\xEDnea
-    con la espalda y la pierna derecha. Trata de aguantar un cliclo de respiraci\xF3n
-    5-10-10."
+    Aguanta el aire.\r\n\r\nDespega la planta del pie derecho, mientras te impulsas
+    hacia adelante, haciendo fuerza con las manos en la rodilla izquierda, que ahora
+    estar\xE1 m\xE1s adelantada que el tobillo.\r\n\r\nEmpuja con las manos en la
+    pierna izquierda, pero m\xE1s arriba, cerca de la cadera, en los muslos. La pierna
+    derecha tiene que llegar a estar paralela a tu colchoneta, formando una l\xEDnea
+    recta con la espalda. Expulsa el aire.\r\n\r\nUna vez que ya est\xE1s en equilibrio
+    deja de apoyar las manos y lev\xE1ntalas lentamente, hasta llegar a formar una
+    l\xEDnea con la espalda y la pierna derecha. Trata de aguantar un ciclo de respiraci\xF3n
+    5-10-10.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -85642,7 +85646,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: YOGA PARA LA ARMONIA Y LA PAZ
+  m_Text: "YOGA PARA LA ARMON\xCDA Y LA PAZ"
 --- !u!222 &2018324459
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -86590,7 +86594,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Se lo agradecemos mucho !!!
+  m_text: "\xA1\xA1\xA1Se lo agradeceremos mucho!!!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -89298,7 +89302,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Adptaci\xF3n"
+  m_Text: "Adaptaci\xF3n"
 --- !u!222 &2096628041
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -89684,7 +89688,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ACTIVIDADES ACTUATICAS PARA LA SALUD
+  m_Text: "ACTIVIDADES ACU\xC1TICAS PARA LA SALUD"
 --- !u!222 &2108206362
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -90196,12 +90200,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sit\xFAate en posici\xF3n cuadr\xFApeda. Inspira profundamente.\n\nLevanta
+  m_text: "Sit\xFAate en posici\xF3n cuadr\xFApeda. Inspira profundamente.\r\n\r\nLevanta
     las rodillas e impulsa la parte superior del cuerpo hacia arriba. Los brazos
-    totalmente estirados, con las manos debajo de los hombros , en posici\xF3n perpendicular
-    al cuerpo.\n\nArquea la espalda y \xE9chala hacia atr\xE1s. Levanta la cabeza
-    para mirar hacia arriba. \n\nAguanta la posici\xF3n durante 10 segundos, descansa
-    10 m\xE1s, y vuelve a empezar."
+    totalmente estirados, con las manos debajo de los hombros, en posici\xF3n perpendicular
+    al cuerpo.\r\n\r\nArquea la espalda y \xE9chala hacia atr\xE1s. Levanta la cabeza
+    para mirar hacia arriba. \r\n\r\nAguanta la posici\xF3n durante 10 segundos,
+    descansa 10 m\xE1s, y vuelve a empezar.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
