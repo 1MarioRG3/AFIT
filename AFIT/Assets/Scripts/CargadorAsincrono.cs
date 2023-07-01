@@ -14,20 +14,21 @@ public class CargadorAsincrono : MonoBehaviour
     bool yaCargando,entiempo;
     private void Awake() {
         Application.targetFrameRate = 60;
-        if(PlayerPrefs.GetInt("pc",0)==1){
+        
+    }
+    void Start()
+    {
+        /*
+        if(PlayerPrefs.GetInt("pc",1)==1){
             Screen.fullScreenMode = FullScreenMode.ExclusiveFullScreen;
-            ApplicationChrome.statusBarState = ApplicationChrome.States.Hidden;
+            //ApplicationChrome.statusBarState = ApplicationChrome.States.Hidden;
             //ApplicationChrome.navigationBarState = ApplicationChrome.States.Hidden;
             
         }else{
             Screen.fullScreenMode = FullScreenMode.Windowed;
-            ApplicationChrome.statusBarState = ApplicationChrome.States.Visible;
+            //ApplicationChrome.statusBarState = ApplicationChrome.States.Visible;
             //ApplicationChrome.navigationBarState = ApplicationChrome.States.Visible;
-        }
-    }
-    void Start()
-    {
-        
+        }*/
     }
 
     void Update()

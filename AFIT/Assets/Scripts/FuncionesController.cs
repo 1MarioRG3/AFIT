@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class FuncionesController : MonoBehaviour
 {
@@ -21,15 +22,18 @@ public class FuncionesController : MonoBehaviour
     [SerializeField] Image BarraLateralArriba;
     [SerializeField] Sprite[] fotos;
     float contador;
+    bool pantallaCompleta=true;
     int i;
     private void Start() {
         
-        if(PlayerPrefs.GetInt("pc",0)==1){
+        Application.targetFrameRate = 60;
+        if(PlayerPrefs.GetInt("pc",1)==1){
             tgP.isOn = true;
+            pantallaCompleta = true;
             
         }else{
             tgP.isOn = false;
-            
+            pantallaCompleta = false;
         }
         if(PlayerPrefs.GetInt("musica",1)==1){
             tgM.isOn = true;
@@ -73,11 +77,6 @@ public class FuncionesController : MonoBehaviour
                 if(Mathf.Abs(DeltaX)>Mathf.Abs(DeltaY)){
                     if(DeltaX>DistanciaMinima){
                         A_BarraLateral.Play("MenuAmburguesaSaliendo");
-                        
-                    }else if(DeltaX<DistanciaMinima*-1){
-                    
-                        A_BarraLateral.Play("MenuAmburguesaOcultandose");
-                        
                     }
                 }
                 dedoInicio = dedoFinal;
@@ -145,12 +144,15 @@ public class FuncionesController : MonoBehaviour
         }
     }
     public void PantallaCompleta(){
-        Screen.fullScreenMode = tgP.isOn?FullScreenMode.ExclusiveFullScreen:FullScreenMode.Windowed;
-        Screen.fullScreen = tgP.isOn?true:false;
+        //Screen.fullScreenMode = tgP.isOn?FullScreenMode.ExclusiveFullScreen:FullScreenMode.Windowed;
+        //
         ApplicationChrome.statusBarState = tgP.isOn?ApplicationChrome.States.Hidden:ApplicationChrome.States.Visible;
-        //ApplicationChrome.statusBarColor= 0xFF3B3B40;
-        PlayerPrefs.SetInt("pc",tgP.isOn?1:0);
-       
+        ApplicationChrome.navigationBarState = tgP.isOn?ApplicationChrome.States.Hidden:ApplicationChrome.States.Visible;
+        Screen.fullScreen = tgP.isOn?true:false;
+        int i = tgP.isOn?1:0;
+        PlayerPrefs.SetInt("pc",i);
+        Debug.Log(tgP.isOn);
+        //SceneManager.LoadScene(1,LoadSceneMode.Single);
     }
     public void PuedeAbrirLaBarraLateral(bool siOno){
         AbrirBarraLateralDeslizandoDedo = siOno;
