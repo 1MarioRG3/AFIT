@@ -10,8 +10,12 @@
 </p>
 
 ## :page_facing_up:DESCRIPCIÓN 
-Este proyecto surge con la idea de crear una aplicación para apoyar el proceso de enseñanza de la Actividad Física Terapéutica (AFIT) de las universidades de Cuba, sin embargo, en el proceso de desarrollo me di cuenta de que puede llegar no solo a estudiantes universitarios, sino también a personas naturales ya que contiene ejercicios terapéuticos para enfermedades que muchas personas padecen, una sección de yoga que puede ayudar a las personas a alcanzar la armonía y la paz, varios masajes terapéuticos , actividades acuáticas para la salud, audios de relajación, una sección de musicoterapia con una lista de músicas para tratar el insomnio, la depresión , la ansiedad entre otros padecimientos , un glosario de términos terapéuticos, sitios externos de interés y varias maneras de contactar con el Dr. Julián Hernández Domínguez, un profesor y médico especialista en el área que ayudo y participo activamente en el desarrollo de esta aplicación.
-Creo que esta aplicación puede ser un aporte a las personas que la necesiten, a las universidades y a la sociedad en general, siempre se realizó con la idea de ser completamente gratuita y sin ánimos de lucro, además de ser de código abierto.
+AFIT es una aplicación móvil de referencia para la Educación Física universitaria en Cuba, se usa en la Universidad de las Ciencias Informáticas en La Habana (UCI). 
+La aplicación es fruto de la experiencia de más de 40 años del grupo nacional de las áreas terapéuticas de la cultura física,  del personal docente investigador en la UCI  y del doctor por la Universidad de Granada, en España Julian Hernández Dominguez. 
+En la aplicación se reúnen los fundamentos teóricos, metodológicos y éticos que, caracterizan la actividad física terapéutica. 
+En la aplicación se establecen los componentes del sistema de aprendizaje y se publican los programas de ejercicios físicos terapéuticos. 
+La aplicación es referente obligado para estudiosos del tema, estudiantes,  profesionales y personas interesadas en elevar la calidad de vida las personas que padecen enfermedades no transmisibles. 
+
 ## :calling:Funcionalidades actuales
 - `SECCIÓN DE EJERCICIOS TERAPÉUTICOS`:
   Contiene 15 documentos con información y ejercicios para distintos padecimientos. Estos son:<br>
