@@ -3,7 +3,6 @@
 <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="Licencia GNU GPL 3.0"></a>
 <img src="https://img.shields.io/badge/STATUS-COMPLETADO-green">
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-2019.3.3f1-blue.svg?logo=unity"></a>
-<img src="https://img.shields.io/github/stars/1MarioRG3?style=social">
 </h1>
 <p align="center">
 <img src="https://github.com/1MarioRG3/AFIT/assets/133591669/e6c8e2a2-bf23-4652-a9c6-6f11f283e2b4">
